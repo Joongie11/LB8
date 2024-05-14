@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1251" standalone="no"?>
+<RegisteredConferees>
+    <Participant>
+        <name>Петро</name>
+        <surname>Петренко </surname>
+        <organization>ХНУ</organization>
+        <report>тест</report>
+        <email>petro12@gmail.com</email>
+    </Participant>
+    <Participant>
+        <name>a</name>
+        <surname>a</surname>
+        <organization>a</organization>
+        <report>a</report>
+        <email>a</email>
+    </Participant>
+</RegisteredConferees>
